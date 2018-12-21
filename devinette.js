@@ -54,7 +54,7 @@ do {
 
 if(proposition===solution)
 {
-   console.log("Génial ! La solution est "+solution+".");
+   console.log("Bingo !!! La solution est bien "+solution+".");
 }
 
 else
