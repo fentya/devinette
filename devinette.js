@@ -1,9 +1,4 @@
-/* 
-Activité : jeu de devinette
-*/
 
-// NE PAS MODIFIER OU SUPPRIMER LES LIGNES CI-DESSOUS
-// COMPLETEZ LE PROGRAMME UNIQUEMENT APRES LE TODO
 
 console.log("Bienvenue dans ce jeu de devinette !");
 
